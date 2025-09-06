@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AISHWARYA SANTOSH SHINDE</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [snapchat-clone](https://github.com/aishwaryash775/Snapchat-clone-)
+- 🔭 I’m currently working on **React.js projects**
 
 - 🌱 I’m currently learning **React.js**
 
