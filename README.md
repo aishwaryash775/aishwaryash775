@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [snapchat-clone](https://github.com/aishwaryash775/Snapchat-clone-)
 
-- 🌱 I’m currently learning **frameworks**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **React.js, Mysql, fundamental.**
 
