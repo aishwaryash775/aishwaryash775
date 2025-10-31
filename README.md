@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aishwaryash880@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EA98bwPbzW3YCPvYCi7c-O1QOILnAKss/view?usp=sharing](https://drive.google.com/file/d/1EA98bwPbzW3YCPvYCi7c-O1QOILnAKss/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EA98bwPbzW3YCPvYCi7c-O1QOILnAKss/view?usp=sharing](https://drive.google.com/file/d/1jWO-3r5C2vMiHgctUCVl4Gt-Ly9mCMp4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
