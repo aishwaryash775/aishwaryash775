@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm AISHWARYA SANTOSH SHINDE</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
-Email Me 👉 ✉️ **aishwaryash880@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<div align="center"><h1 align="center">Hi 👋, I'm AISHWARYA SANTOSH SHINDE</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=11D3F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+developer;%26+Building+dynamic+websites;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+
+### 🎓 Computer Engineering Student | 💻 Passionate Full Stack Developer
+
+✨*"𝒀𝒐𝒖𝒓 𝑽𝒊𝒔𝒊𝒐𝒏, 𝑴𝒚 𝑺𝒚𝒏𝒕𝒂𝒙."* ✨
+</div>
 <br><br>
-# 💫 About Me:<be><br>
-🔭 I’m currently working on : React.js projects<br><br>🌱 I’m currently learning : backend<br><br>💬 Ask me about frontend,backend, database, fundamental.<br><br>
-  ⚡ **Fun fact:** I Love Tech and Tech Love Me<br><br>
-📫 How to reach me : aishwaryash880@gmail.com<br><br>📄 resume https://drive.google.com/file/d/1EA98bwPbzW3YCPvYCi7c-O1QOILnAKss/view?usp=sharing
+# 💫 About Me:<br>
+🔭 I’m currently working on : React.js projects<br>🌱 I’m currently learning : backend development<br>💬 Ask me about frontend,backend, database, fundamental.<br>
+  ⚡ **Fun fact:** I Love Tech and Tech Love Me<br>
+📫 How to reach me : aishwaryash880@gmail.com<br>📄 resume https://drive.google.com/file/d/1EA98bwPbzW3YCPvYCi7c-O1QOILnAKss/view?usp=sharing
 
 
 ## 🌐 Socials:
