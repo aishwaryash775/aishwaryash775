@@ -42,8 +42,12 @@
 
 ### 🪄 **Profile Summary**
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aishwaryash775&theme=tokyonight"/>
+---
+
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=aishwaryash775&color=blueviolet&style=flat-square&label=Profile+Views)
+
+---
 
 
 ## 🏆 GitHub Trophies
