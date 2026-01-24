@@ -9,7 +9,7 @@
 # 💫 About Me:<br>
 🔭 I’m currently working on : React.js projects<br>🌱 I’m currently learning : backend development<br>💬 Ask me about frontend,backend, database, fundamental.<br>
   ⚡ **Fun fact:** I Love Tech and Tech Love Me<br>
-📫 How to reach me : aishwaryash880@gmail.com<br>📄 resume https://drive.google.com/file/d/1EA98bwPbzW3YCPvYCi7c-O1QOILnAKss/view?usp=sharing
+📫 How to reach me : aishwaryash880@gmail.com<br>📄 resume (https://drive.google.com/drive/folders/18QrOzm2mfClNaI3MD-Qb0ZHkpBovjVMf)
 
 
 ## 🌐 Socials:
