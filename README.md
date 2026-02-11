@@ -29,7 +29,7 @@
 
 <div align="center">
   
-[![Resume](https://drive.google.com/file/d/1fmxrLPSJXpDpd5FPn0jxv3SdJvnzIOLb/view)](https://github.com/aishwaryash775/aishwarya-shinde-resume/blob/main/AishwaryaComps2026.pdf)
+[![Resume](https://drive.google.com/file/d/1fmxrLPSJXpDpd5FPn0jxv3SdJvnzIOLb/view)](https://github.com/aishwaryash775/aishwarya-shinde-resume/blob/main/comps2026.pdf)
 
 </div>
 
