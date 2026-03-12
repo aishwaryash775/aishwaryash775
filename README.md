@@ -9,7 +9,7 @@
 # 💫 About Me:<br>
 🔭 I’m currently working on : React.js projects<br>🌱 I’m currently learning : backend development<br>💬 Ask me about frontend,backend, database, fundamental.<br>
   ⚡ **Fun fact:** I Love Tech and Tech Love Me<br>
-📫 How to reach me : aishwaryash880@gmail.com<br>📄 resume (https://drive.google.com/drive/folders/18QrOzm2mfClNaI3MD-Qb0ZHkpBovjVMf)
+📫 How to reach me : aishwaryash880@gmail.com<br>📄 resume (https://drive.google.com/drive/folders/1p2e7B0UWBhH13q8aRoRPxxXAA_klxptO)
 
 
 ## 🌐 Socials:
@@ -29,7 +29,7 @@
 
 <div align="center">
   
-[![Resume](https://drive.google.com/file/d/1fmxrLPSJXpDpd5FPn0jxv3SdJvnzIOLb/view)](https://github.com/aishwaryash775/aishwarya-shinde-resume/blob/main/comps2026.pdf)
+[![Resume](https://drive.google.com/file/d/1fmxrLPSJXpDpd5FPn0jxv3SdJvnzIOLb/view)](https://github.com/aishwaryash775/aishwarya-shinde-resume/blob/main/AishwaryacompsEg2026.pdf)
 
 </div>
 
